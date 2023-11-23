@@ -52,4 +52,8 @@ SAN-кластер.
 Пришлите блоксхему, где и что будет располагаться. Опишите, в каких режимах будут работать сервера.
 
 
+https://github.com/KudryaOlga22/M2/blob/main/Screenshot_1.png
+
+![alt text](https://github.com/KudryaOlga22/M2/blob/main/Screenshot_1.png)
+![alt text](https://github.com/KudryaOlga22/M2/blob/main/Screenshot_2.png)
 
